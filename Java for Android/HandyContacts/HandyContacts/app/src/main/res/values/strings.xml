@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Handy Contacts</string>
+    <string name="nav_header_title">Handy Contacts v0.1</string>
+    <string name="nav_header_subtitle">Довідник</string>
+
+    <string name="action_menu_category">Редагування категорій</string>
+    <string name="action_menu_territory">Редагування територій</string>
+
+    <string name="menu_home">Оголошення</string>
+    <string name="menu_no_publish">Чернетки</string>
+    <string name="menu_publish">Опубліковані</string>
+    <string name="menu_share">Підтримайте проект...</string>
+
+    <string name="menu_tools">Справка</string>
+    <string name="menu_send">Пожертвовать</string>
+</resources>
